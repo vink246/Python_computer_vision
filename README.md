@@ -1,2 +1,2 @@
 # Python_rand_OpenCV
-random python OpenCV projects
+My OpenCV projects in Python
